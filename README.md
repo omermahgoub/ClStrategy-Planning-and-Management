@@ -1,1 +1,1 @@
-# ClStrategy-Planning-and-Management
+# Cloud Strategy Planning and Management
